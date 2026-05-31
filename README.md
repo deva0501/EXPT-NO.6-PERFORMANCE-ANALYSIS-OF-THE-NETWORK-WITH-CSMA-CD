@@ -1,7 +1,7 @@
 # AIM
 
 To write an NS2 program to observe the performance of the network with Carrier Sense Multiple Access/Collision Detection.
-.
+
 # EQUIPMENT REQUIRED
 
 PC System with Linux OS, NS2 software.
@@ -82,6 +82,7 @@ $ns run
  
 # OUTPUT
 
+<img width="899" height="1599" alt="WhatsApp Image 2026-05-31 at 4 49 58 PM" src="https://github.com/user-attachments/assets/1e3498dc-b82a-4518-b433-489e1c0713d5" />
 
 
 
